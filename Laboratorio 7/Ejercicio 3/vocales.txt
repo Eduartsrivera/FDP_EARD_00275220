@@ -1,0 +1,7 @@
+La cantidad de vocales que contiene la palabra oso es: 
+
+ La cantidad de vocales 'o' es: 1
+
+ La cantidad de vocales 'o' es: 2
+
+ La palabra ingresada no contiene vocales
